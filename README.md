@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Esta é minha Solução para o exercício proposto em rails pela Code Academy " Broadway " !
 
-Things you may want to cover:
+para visualizar é necessário instalar o ruby juntamente com o rails na sua máquina
 
-* Ruby version
+aqui tem um ótimo tutorial : http://guides.railsgirls.com/guides-ptbr/install#instala%C3%A7%C3%A3o-para-linux
 
-* System dependencies
+após configuração  e instalação : 
 
-* Configuration
+- Abrir o terminal
 
-* Database creation
+- Acessar o diretório dos arquivos
 
-* Database initialization
+- Digitar "rails server"
 
-* How to run the test suite
+- Abrir o navegador e digitar "localhost:3000"
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Espero ter ajudado !
